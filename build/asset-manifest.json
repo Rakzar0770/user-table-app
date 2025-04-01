@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rakzar0770/UserTable.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Rakzar0770/UserTable.git/static/js/main.72f80464.js",
+    "static/js/453.1cbe6b13.chunk.js": "/Rakzar0770/UserTable.git/static/js/453.1cbe6b13.chunk.js",
+    "index.html": "/Rakzar0770/UserTable.git/index.html",
+    "main.e6c13ad2.css.map": "/Rakzar0770/UserTable.git/static/css/main.e6c13ad2.css.map",
+    "main.72f80464.js.map": "/Rakzar0770/UserTable.git/static/js/main.72f80464.js.map",
+    "453.1cbe6b13.chunk.js.map": "/Rakzar0770/UserTable.git/static/js/453.1cbe6b13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.72f80464.js"
+  ]
+}
